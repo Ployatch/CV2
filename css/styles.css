@@ -70,7 +70,7 @@ a:hover{
 }
 
 .skill-row{
-  width: 55%;
+  width: 54%;
   margin: 50px auto 50px auto;
   text-align: left;
 }
@@ -104,13 +104,13 @@ a:hover{
 }
 
 .brain-img{
-  width: 30%;
+  width: 28%;
   float: left;
   margin-right: 30px;
 }
 
 .smileys-img{
-  width: 28%;
+  width: 25%;
   float: right;
   margin-left: 30px;
 }
