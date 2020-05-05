@@ -70,17 +70,13 @@ a:hover{
 }
 
 .skill-row{
-  width: 50%;
+  width: 55%;
   margin: 50px auto 50px auto;
   text-align: left;
 }
 
-.stu{
-  text-decoration: underline;
-}
-
 .intro{
-  width: 45%;
+  width: 44%;
   margin: auto;
 }
 
@@ -108,7 +104,7 @@ a:hover{
 }
 
 .brain-img{
-  width: 30%;
+  width: 31%;
   float: left;
   margin-right: 30px;
 }
